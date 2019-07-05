@@ -1,6 +1,6 @@
 # pi3 => *fix* the mini UART clock speed, please
 enable_uart=1
 
-# 32-bit
-arm_64bit = 0
+# 64-bit
+arm_64bit = 1
 

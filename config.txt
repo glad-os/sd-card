@@ -1,3 +1,2 @@
 # 64-bit
-arm_64bit = 1
-
+arm_64bit=1

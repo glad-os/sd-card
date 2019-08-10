@@ -1,2 +1,6 @@
 # 32-bit
 arm_64bit=0
+
+# run kernel in high memory
+kernel_address=0x3b000000
+
